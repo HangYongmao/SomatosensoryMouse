@@ -1,0 +1,11 @@
+USB学习之描述符篇--枚举		http://lastnight1034.blog.163.com/blog/static/167118149201211710164820/
+
+USB设备描述符：http://blog.csdn.net/saloon_yuan/article/details/7837492
+
+报告以及报告描述符简介参考：http://www.baiheee.com/Documents/081126/081126115257.htm
+
+将触控USB实验改为插入USB，电脑关机http://www.openedv.com/posts/list/11273.htm
+
+基于STM32处理器的USB HID模拟鼠标键盘（2） - 实现键盘鼠标功能https://blog.csdn.net/tq384998430/article/details/53374748
+
+STM32 usb-hid 鼠标+键盘 双接口 复合设备http://www.openedv.com/posts/list/12629.htm
